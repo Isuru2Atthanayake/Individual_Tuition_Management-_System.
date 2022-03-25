@@ -1,0 +1,6 @@
+C:\Users\Isuru\Desktop\csharphome\pass\pass\bin\Debug\pass.exe.config
+C:\Users\Isuru\Desktop\csharphome\pass\pass\bin\Debug\pass.exe
+C:\Users\Isuru\Desktop\csharphome\pass\pass\bin\Debug\pass.pdb
+C:\Users\Isuru\Desktop\csharphome\pass\pass\obj\Debug\pass.csprojResolveAssemblyReference.cache
+C:\Users\Isuru\Desktop\csharphome\pass\pass\obj\Debug\pass.exe
+C:\Users\Isuru\Desktop\csharphome\pass\pass\obj\Debug\pass.pdb
